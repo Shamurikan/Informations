@@ -100,7 +100,7 @@ Now your project is progressive web application and the output should be like th
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>your page title</title>
-    <meta name="theme-color" content="#000000"/>
+    <meta name="theme-color" content="color you want"/>
     <link rel="manifest" href="manifest.json">
     <script>
         //if browser support service worker
