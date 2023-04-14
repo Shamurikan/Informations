@@ -2,7 +2,7 @@
 
 ---
 
-to make progressive web application you must to create a page and name it `sw.js`
+To make progressive web application you must to create a page and name it `sw.js`
 
 Then copy the code below code and paste in the page we created.
 
