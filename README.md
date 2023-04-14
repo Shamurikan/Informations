@@ -2,7 +2,7 @@
 
 ---
 
-to make progressive web application, you have to copy the code below and paste in all pages in your project.
+to make progressive web application you must to add the two pages above, then you have to copy the code below and paste in the main page in your project.
 
 ---
 
@@ -13,6 +13,19 @@ if('serviceWorker' in navigator) {
   navigator.serviceWorker.register('sw.js');
 };
 ```
+
+---
+
+After that you must link the manifest page in the main page in your project.
+
+---
+
+```HTML
+<link rel="manifest" href="manifest.json">
+```
+
+---
+
 
 
 
