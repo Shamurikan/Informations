@@ -64,7 +64,7 @@ Note: you can change the information below.
 
 ---
 
-Then you have to copy the code below and paste in the main page in your project.
+Then you have to copy the code below and paste it in the main page in your project.
 
 ---
 
