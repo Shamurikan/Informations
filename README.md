@@ -26,11 +26,4 @@ After that you must link the manifest page in the main page in your project.
 
 ---
 
-
-
-
-
-
-
-
-You must add to images, the first image must be 192x192 and the second image must be 512x512 to make responsive banner
+Now you have to add icon to your PWA through adding two photos images, the first image must be `192x192` and the second image must be `512x512` to make responsive banner
