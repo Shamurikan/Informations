@@ -1,7 +1,3 @@
-# Get started
-
-
-
 // Step 1 Define the "input" element through its function.
 
 let inputElement = document.getElementById("inputElement");
