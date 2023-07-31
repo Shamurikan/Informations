@@ -1,8 +1,8 @@
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th> 
-    <th>Country</th>
+    <th>Season</th>
+    <th>Episode</th> 
+    <th>Link</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
