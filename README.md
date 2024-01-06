@@ -12,4 +12,6 @@
 
 7. [**Reddit**](https://reddit.com/): A community-based platform with various topic-specific subreddits where users can share and discuss content, news, and ideas.
 
+[https://shahid.mbc.net/ar](https://shahid.mbc.net/ar)
+
 Remember that the popularity and features of these platforms may evolve over time.
