@@ -1,5 +1,3 @@
-Certainly:
-
 1. **Facebook:** A versatile platform for connecting with friends and family, sharing updates, photos, and engaging with various content.
 
 2. **Twitter:** A microblogging site where users share short messages (tweets) of up to 280 characters, covering a wide range of topics.
