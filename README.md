@@ -6,7 +6,7 @@
 
 4. [**YouTube**](https://youtube.com/): Geared towards video content, YouTube is a platform for sharing and discovering a wide array of videos, from tutorials to entertainment.
 
-5. **Snapchat:** Known for its disappearing messages and multimedia content, Snapchat is popular among younger users for its casual and spontaneous nature.
+5. [**Snapchat**](https://snapchat.com/): Known for its disappearing messages and multimedia content, Snapchat is popular among younger users for its casual and spontaneous nature.
 
 6. [**TikTok**](https://tiktok.com/): A short-form video platform where users create and share engaging content often set to music. It gained immense popularity for its creative and viral trends.
 
