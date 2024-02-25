@@ -1,3 +1,5 @@
+alert("start done")
+
 var thisWebsite = window.location.href;
 
 alert("define done")
