@@ -12,7 +12,7 @@ var blocked = [
 
 for (block of blocked) {
   if (thisWebsite.includes(block) {
-    window.location = "block"
+    window.location.href = "https://block.com"
   } else {
     continue
   }
