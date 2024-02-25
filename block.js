@@ -16,9 +16,9 @@ var blocked = [
 
 alert("define blocked done");
 
-for (block of blocked) {
+for (i = 0; i < blocked.length; i++) {
   alert("check done");
-  if (thisWebsite.includes(block)) {
+  if (thisWebsite.includes(blocked[i])) {
     alert("site found done");
     window.location.href = "https://block.com";
   } else {
