@@ -1,8 +1,3 @@
-alert("start done");
-
-var thisWebsite = window.location;
-
-if (thisWebsite == "https://www.reddit.com") {
-  alert("site found done");
-  window.location = "https://block.com";
+if (window.location == "https://www.reddit.com") {
+  window.location = "https://block";
 }
