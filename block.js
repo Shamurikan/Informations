@@ -1,8 +1,8 @@
 var thisWebsite = window.location;
 
 var blocked = [
-  "https://reddit.com",
-  "",
+  "reddit.com",
+  "youtube.com",
   "",
   "",
   "",
