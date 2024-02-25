@@ -1,9 +1,9 @@
-var thisWebsite = window.location;
+var thisWebsite = window.location.href;
 
 var blocked = [
   "reddit.com",
   "youtube.com",
-  "",
+  "https://www.reddit.com",
   "",
   "",
   "",
