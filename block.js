@@ -1,8 +1,8 @@
-alert("start done")
+alert("start done");
 
 var thisWebsite = window.location.href;
 
-alert("define done")
+alert("define done");
 
 var blocked = [
   "reddit.com",
@@ -12,16 +12,16 @@ var blocked = [
   "",
   "",
   ""
-]
+];
 
-alert("define bloked done")
+alert("define blocked done");
 
 for (block of blocked) {
-  alert("check done")
-  if (thisWebsite.includes(block) {
-    alert("site found done")
-    window.location.href = "https://block.com"
+  alert("check done");
+  if (thisWebsite.includes(block)) {
+    alert("site found done");
+    window.location.href = "https://block.com";
   } else {
-    continue
+    continue;
   }
 }
