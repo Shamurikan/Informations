@@ -1,3 +1,7 @@
 ytm-reel-shelf-renderer {
   display: none !important;
 }
+
+.reel-shelf-content-wrapper {
+  display: none !important;
+}
