@@ -5,3 +5,7 @@ ytm-reel-shelf-renderer {
 .reel-shelf-content-wrapper {
   display: none !important;
 }
+
+.big-shorts-singleton {
+  display: none !important;
+}
