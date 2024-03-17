@@ -9,3 +9,8 @@ ytm-reel-shelf-renderer {
 .big-shorts-singleton {
   display: none !important;
 }
+
+#cap {
+  display: none !important;
+}
+
