@@ -14,3 +14,6 @@ ytm-reel-shelf-renderer {
   display: none !important;
 }
 
+#player {
+  all: unset !important;
+}
