@@ -2,7 +2,8 @@
 
 SoftSub UltraGear 27GN650: 84px as font size, 14px as vertical margin
 
-# [FFmpeg](https://ffmpeg.org/)
+# [FFmpeg](https://ffmpeg.org/) a complete, cross-platform solution to record, convert and stream audio and video.
+
 
 ```ffmpeg -reconnect 1 -reconnect_at_eof 1 -reconnect_streamed 1 -reconnect_delay_max 10 -timeout 3000000 -i input.m3u8 -c copy output.mkv```
 
