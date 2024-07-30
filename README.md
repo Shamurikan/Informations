@@ -1,4 +1,4 @@
-IMG(https://raw.githubusercontent.com/Shamurikan/Informations/main/images/IMG_7609.jpeg)
+<img src="https://raw.githubusercontent.com/Shamurikan/Informations/main/images/IMG_7609.jpeg"/>
 
 
 ```JS
