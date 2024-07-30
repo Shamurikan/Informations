@@ -1,3 +1,6 @@
+IMG(https://raw.githubusercontent.com/Shamurikan/Informations/main/images/IMG_7609.jpeg)
+
+
 ```JS
 style,Arial,93.8,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.0,0,2,0,0,75,1
 ```
