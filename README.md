@@ -3,7 +3,7 @@ Hello there, and welcome to my profile! This is Shamurikan.
 <br/> <br/>
 
 > [!NOTE]
-> All my accounts is private, so it’s not typically visible to many people. eventhough, I don't post any type of content here. While this might change in the future, so it probably won't help you.
+> All my accounts is private, so it’s not typically visible to many people because i don't post any type of content here. While this might change in the future, so it probably won't help you.
 <img src="45E36B45-F935-4B72-A181-C76897D6541C.jpeg"/>
 
 <a href="https://anilist.co">Anilist.co</a>
