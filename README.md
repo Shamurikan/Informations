@@ -5,8 +5,7 @@ Hello there, and welcome to my profile! This is Shamurikan.
 > [!NOTE]
 > All my accounts is private and invisible because i don't post any type of content. While this might change in the future, so it probably won't help you.
 <img src="45E36B45-F935-4B72-A181-C76897D6541C.jpeg"/>
-
-here you can find my tracking website like <a href="https://anilist.co/">AniList</a> for tracking anime and manga and there is <a href="https://m.imdb.com/">IMDb</a> to tracking movies and series.
+here you can find my tracking websites like <a href="https://anilist.co/">AniList</a> for tracking anime and manga and there is <a href="https://m.imdb.com/">IMDb</a> to tracking movies and series.
 
 <img src="https://raw.githubusercontent.com/Shamurikan/Informations/main/images/IMG_7609.jpeg"/>
 
