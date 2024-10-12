@@ -1,9 +1,9 @@
 <h1> シャムリカン </h1>
-Hello there, and welcome to my profile! This is Shamurikan. This is where you should be able to find my achievements, skills, and other information about me. However, I don’t write anything here.
+Hello there, and welcome to my profile! This is Shamurikan.
 <br/> <br/>
 
 > [!NOTE]
-> My account is private, so it’s not typically visible to many people. Additionally, I currently do not post any personal content here. While this might change in the future, so it probably won't help you.
+> All my accounts is private, so it’s not typically visible to many people. eventhough, I don't post any type of content here. While this might change in the future, so it probably won't help you.
 <img src="45E36B45-F935-4B72-A181-C76897D6541C.jpeg"/>
 
 <a href="https://anilist.co">Anilist.co</a>
