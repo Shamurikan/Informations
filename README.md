@@ -7,12 +7,9 @@ Hello there, and welcome to my profile! This is Shamurikan.
 <img src="45E36B45-F935-4B72-A181-C76897D6541C.jpeg"/>
 here you can find my tracking websites like <a href="https://anilist.co/">AniList</a> for tracking anime and manga and there is <a href="https://m.imdb.com/">IMDb</a> to tracking movies and series.
 
+<h1>Video settings</h1>
+
 <img src="https://raw.githubusercontent.com/Shamurikan/Informations/main/images/IMG_7609.jpeg"/>
-
-
-
-
-
 
 ```JS
 style,Arial,93.8,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.0,0,2,0,0,75,1
