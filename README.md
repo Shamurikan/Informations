@@ -8,7 +8,7 @@ Hello there, and welcome to my profile! This is Shamurikan.
 
 <img src="https://raw.githubusercontent.com/Shamurikan/Informations/main/images/IMG_7609.jpeg"/>
 
-<a href="https://anilist.co"> Anilist </a>
+<a href="https://anilist.co"> <img src="https://raw.githubusercontent.com/Shamurikan/Informations/main/images/IMG_7609.jpeg"/> </a>
 
 
 
