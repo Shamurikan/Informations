@@ -6,5 +6,5 @@ for( i=0; i< x.length; i++) {
     }
     console.log(i)
 }
-
+alert("holllllllllla")
 console.log("not exist")
