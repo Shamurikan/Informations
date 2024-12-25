@@ -6,6 +6,7 @@ for (let i = 0; i < x.length; i++) {
   if (x[i].innerText === "For you") {
     console.log("exist");
     found = true;
+    x[i].style.display = "none"
     break; // Exit the loop once found
   }
   console.log(i);
@@ -15,4 +16,4 @@ if (!found) {
   console.log("not exist");
 }
 
-alert("holllllllllla");
+alert("NEO");
